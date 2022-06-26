@@ -1,6 +1,3 @@
-<title>
-  Bisby's Github Page
-</title>
 <h1>
   Hello, I'm Bradley Bisby and I make stuff sometimes
 </h1>
