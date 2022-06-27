@@ -1,3 +1,3 @@
 # Hello, I'm Bradley Bisby and I make stuff sometimes
 ## Follow me on.....
-### <a href="https://www.twitter.com/b1sby">Twitter</a>
+### [Twitter](https://www.twitter.com/b1sby)
